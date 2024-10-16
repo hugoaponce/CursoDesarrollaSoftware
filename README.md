@@ -1,7 +1,7 @@
 # MiPrimerRepositorio
 # MiPrimerRepositorio
 Este repositorio es del curso que me gusta.
-# tresCapasPhp
+# EstructuraCapasPhp
 Muestra una aplicación web interpretada en un servidor local, 
 desarrollada en capas y codificada en **lenguaje php**.
 
